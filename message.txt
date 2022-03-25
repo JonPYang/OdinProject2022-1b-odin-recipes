@@ -1,7 +1,7 @@
-Iteration 2 of Odin-Recipes
+Iteration 3: Recipe Page Content
 
-Create a new directory within the odin-recipes directory and name it recipes.
-Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. 
-h1 heading with the recipe’s name as its content.
-In the index.html file, add a link to the recipe page. 
-The text of the link should again be the recipe name.
+The recipe page should have the following content:
+An image of the finished dish under the h1 heading that you added earlier. 
+A “Description” heading followed by a paragraph or two describing the recipe. 
+An “Ingredients” heading followed by an unordered list of the ingredients
+A “Steps” heading followed by an ordered list of the steps needed for making the dish.
