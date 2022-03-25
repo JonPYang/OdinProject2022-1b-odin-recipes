@@ -1,9 +1,8 @@
-Created message.txt to improve git workflow
+Added brief introduction to README.md 
 
-Had an idea where I could write messages of what I wanted to do before
-starting the work. Would improve focus and ensure commits are made
-after each task is completed.
-
-https://stackoverflow.com/questions/20438293/preparing-a-git-commit-message-before-committing
-
-Implemented git config --global alias.done 'commit -eF message.txt'
+Step 4 of OdinProject git setting up: 
+Set up your README.md file and write a brief introduction 
+describing what the current project is and what skills you 
+will have demonstrated once you have completed it. (You can 
+also do this as a self-reflection at the end of the project, 
+which is a good way to review what you have learned.)
