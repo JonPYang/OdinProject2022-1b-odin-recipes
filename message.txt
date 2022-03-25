@@ -1,0 +1,9 @@
+Created message.txt to improve git workflow
+
+Had an idea where I could write messages of what I wanted to do before
+starting the work. Would improve focus and ensure commits are made
+after each task is completed.
+
+https://stackoverflow.com/questions/20438293/preparing-a-git-commit-message-before-committing
+
+Implemented git config --global alias.done 'commit -eF message.txt'
