@@ -1,1 +1,4 @@
-Added styles.css
+Added breadcrumb navigation to all pages
+
+Experimenting with breadcrumb navigation
+https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Breadcrumb_Navigation
