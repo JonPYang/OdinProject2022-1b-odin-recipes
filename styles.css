@@ -1,0 +1,17 @@
+html {
+    background-color: rgb(255, 250, 203);
+    color: rgb(0, 1, 56);
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+  }
+
+.title {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 3px double;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+
+}
